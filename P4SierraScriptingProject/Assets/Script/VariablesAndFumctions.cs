@@ -30,7 +30,7 @@ public class VariablesAndFumctions : MonoBehaviour
         int result;
         
         //multiplying the num,ber by two
-        result = *2;
+        result = * 2;
         
         //return the value
         return result;
